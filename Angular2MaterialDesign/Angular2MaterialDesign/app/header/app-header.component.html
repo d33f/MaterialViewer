@@ -1,0 +1,28 @@
+﻿<div class="ui grid">
+    <div class="four column row">
+        <div class="left floated column">
+            <!-- Material design toolbar -->
+            <md-toolbar class="md-danger">
+                <span class="text">Sort</span>
+                <button md-button (click)="changeDirection()">
+                    <i class="material-icons md-18" [class.red-color]="getDirection() >= '1'">swap_vert</i> Direction
+                </button>
+                <button md-button (click)="changeSort('Time')">
+                    <i class="material-icons md-18">schedule</i> Time
+                </button>
+                <button md-button (click)="changeSort('Votes')">
+                    <i class="material-icons md-18">favorite</i> Likes
+                </button>
+                <!-- Searchbox -->
+                <span style="display:inline-block; width: 150px;" class="text">
+                </span>
+                    <i class="material-icons md-18">search</i>
+                    <md-input-container class="md-icon-float-right">
+                        <input mdInput (keyup)="liveSearch($event)" placeholder="t" type="text">
+                    </md-input-container>
+                <!-- End of searchbox -->
+            </md-toolbar>
+            <!-- End material design toolbar -->
+        </div> <!-- left column -->
+    </div> <!-- four column row -->
+</div>
