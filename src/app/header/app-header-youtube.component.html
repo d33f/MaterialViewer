@@ -1,0 +1,13 @@
+﻿       <!-- Material design toolbar -->
+<md-toolbar class="md-danger">
+    <!-- Searchbox -->
+    <i class="material-icons md-18">search</i>
+    <md-input-container style="width:100%;" md-no-float class="md-block md-input-has-placeholder">
+        <input mdInput (keyup)="liveSearch($event)">
+    </md-input-container>
+    <img style="float: right;"
+         *ngIf="loading"
+         [src]="loadingGif" />
+    <!-- End of searchbox -->
+</md-toolbar>
+<!-- End material design toolbar -->

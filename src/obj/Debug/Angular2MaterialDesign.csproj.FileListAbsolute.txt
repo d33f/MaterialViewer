@@ -1,0 +1,71 @@
+C:\Angular 2 Material\Angular2MaterialDesign\Angular2MaterialDesign\bin\roslyn\csc.exe
+C:\Angular 2 Material\Angular2MaterialDesign\Angular2MaterialDesign\bin\roslyn\csc.exe.config
+C:\Angular 2 Material\Angular2MaterialDesign\Angular2MaterialDesign\bin\roslyn\csc.rsp
+C:\Angular 2 Material\Angular2MaterialDesign\Angular2MaterialDesign\bin\roslyn\csi.exe
+C:\Angular 2 Material\Angular2MaterialDesign\Angular2MaterialDesign\bin\roslyn\csi.rsp
+C:\Angular 2 Material\Angular2MaterialDesign\Angular2MaterialDesign\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Angular 2 Material\Angular2MaterialDesign\Angular2MaterialDesign\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Angular 2 Material\Angular2MaterialDesign\Angular2MaterialDesign\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Angular 2 Material\Angular2MaterialDesign\Angular2MaterialDesign\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Angular 2 Material\Angular2MaterialDesign\Angular2MaterialDesign\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Angular 2 Material\Angular2MaterialDesign\Angular2MaterialDesign\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Angular 2 Material\Angular2MaterialDesign\Angular2MaterialDesign\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Angular 2 Material\Angular2MaterialDesign\Angular2MaterialDesign\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Angular 2 Material\Angular2MaterialDesign\Angular2MaterialDesign\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Angular 2 Material\Angular2MaterialDesign\Angular2MaterialDesign\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Angular 2 Material\Angular2MaterialDesign\Angular2MaterialDesign\bin\roslyn\System.AppContext.dll
+C:\Angular 2 Material\Angular2MaterialDesign\Angular2MaterialDesign\bin\roslyn\System.Collections.Immutable.dll
+C:\Angular 2 Material\Angular2MaterialDesign\Angular2MaterialDesign\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Angular 2 Material\Angular2MaterialDesign\Angular2MaterialDesign\bin\roslyn\System.IO.FileSystem.dll
+C:\Angular 2 Material\Angular2MaterialDesign\Angular2MaterialDesign\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Angular 2 Material\Angular2MaterialDesign\Angular2MaterialDesign\bin\roslyn\System.Reflection.Metadata.dll
+C:\Angular 2 Material\Angular2MaterialDesign\Angular2MaterialDesign\bin\roslyn\vbc.exe
+C:\Angular 2 Material\Angular2MaterialDesign\Angular2MaterialDesign\bin\roslyn\vbc.exe.config
+C:\Angular 2 Material\Angular2MaterialDesign\Angular2MaterialDesign\bin\roslyn\vbc.rsp
+C:\Angular 2 Material\Angular2MaterialDesign\Angular2MaterialDesign\bin\roslyn\VBCSCompiler.exe
+C:\Angular 2 Material\Angular2MaterialDesign\Angular2MaterialDesign\bin\roslyn\VBCSCompiler.exe.config
+C:\Angular 2 Material\Angular2MaterialDesign\Angular2MaterialDesign\bin\app\assets\images\materialbg.jpg
+C:\Angular 2 Material\Angular2MaterialDesign\Angular2MaterialDesign\bin\app\assets\loading.gif
+C:\Angular 2 Material\Angular2MaterialDesign\Angular2MaterialDesign\bin\Angular2MaterialDesign.dll.config
+C:\Angular 2 Material\Angular2MaterialDesign\Angular2MaterialDesign\bin\Angular2MaterialDesign.dll
+C:\Angular 2 Material\Angular2MaterialDesign\Angular2MaterialDesign\bin\Angular2MaterialDesign.pdb
+C:\Angular 2 Material\Angular2MaterialDesign\Angular2MaterialDesign\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Angular 2 Material\Angular2MaterialDesign\Angular2MaterialDesign\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Angular 2 Material\Angular2MaterialDesign\Angular2MaterialDesign\obj\Debug\Angular2MaterialDesign.dll
+C:\Angular 2 Material\Angular2MaterialDesign\Angular2MaterialDesign\obj\Debug\Angular2MaterialDesign.pdb
+C:\Repo_GH\MaterialViewer\bin\app\assets\images\materialbg.jpg
+C:\Repo_GH\MaterialViewer\bin\app\assets\loading.gif
+C:\Repo_GH\MaterialViewer\bin\Angular2MaterialDesign.dll.config
+C:\Repo_GH\MaterialViewer\bin\Angular2MaterialDesign.dll
+C:\Repo_GH\MaterialViewer\bin\Angular2MaterialDesign.pdb
+C:\Repo_GH\MaterialViewer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Repo_GH\MaterialViewer\obj\Debug\Angular2MaterialDesign.csprojResolveAssemblyReference.cache
+C:\Repo_GH\MaterialViewer\obj\Debug\Angular2MaterialDesign.dll
+C:\Repo_GH\MaterialViewer\obj\Debug\Angular2MaterialDesign.pdb
+C:\Repo_GH\MaterialViewer\bin\roslyn\csc.exe
+C:\Repo_GH\MaterialViewer\bin\roslyn\csc.exe.config
+C:\Repo_GH\MaterialViewer\bin\roslyn\csc.rsp
+C:\Repo_GH\MaterialViewer\bin\roslyn\csi.exe
+C:\Repo_GH\MaterialViewer\bin\roslyn\csi.rsp
+C:\Repo_GH\MaterialViewer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Repo_GH\MaterialViewer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Repo_GH\MaterialViewer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Repo_GH\MaterialViewer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Repo_GH\MaterialViewer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Repo_GH\MaterialViewer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Repo_GH\MaterialViewer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Repo_GH\MaterialViewer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Repo_GH\MaterialViewer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Repo_GH\MaterialViewer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Repo_GH\MaterialViewer\bin\roslyn\System.AppContext.dll
+C:\Repo_GH\MaterialViewer\bin\roslyn\System.Collections.Immutable.dll
+C:\Repo_GH\MaterialViewer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Repo_GH\MaterialViewer\bin\roslyn\System.IO.FileSystem.dll
+C:\Repo_GH\MaterialViewer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Repo_GH\MaterialViewer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Repo_GH\MaterialViewer\bin\roslyn\vbc.exe
+C:\Repo_GH\MaterialViewer\bin\roslyn\vbc.exe.config
+C:\Repo_GH\MaterialViewer\bin\roslyn\vbc.rsp
+C:\Repo_GH\MaterialViewer\bin\roslyn\VBCSCompiler.exe
+C:\Repo_GH\MaterialViewer\bin\roslyn\VBCSCompiler.exe.config
+C:\Repo_GH\MaterialViewer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
