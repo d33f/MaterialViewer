@@ -15,7 +15,7 @@ let AppHeaderYouTubeComponent = class AppHeaderYouTubeComponent {
     constructor(youtubeService, el) {
         this.youtubeService = youtubeService;
         this.el = el;
-        this.loadingGif = '/app/assets/loading.gif';
+        this.loadingGif = 'http://i.imgur.com/AcGrX5w.gif';
         this.results = new core_1.EventEmitter();
     }
     liveSearch(event) {
